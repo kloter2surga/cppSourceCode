@@ -43,6 +43,7 @@ void fillmessageintocodes(int a[], int b[]) {
 
 	for(int i=0;i<4;i++) {
 		a[(1<<i)-1]=0;
+		
 	}
 
 	int j=7;
